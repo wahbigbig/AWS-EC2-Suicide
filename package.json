@@ -1,0 +1,16 @@
+{
+  "name": "aws-ec2-suicide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.371.0",
+    "request": "^2.88.0"
+  }
+}
